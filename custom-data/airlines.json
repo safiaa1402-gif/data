@@ -832,5 +832,10 @@
     "name": "Arawak Air Service",
     "callsign": "Arawak",
     "virtual": true
-  }
+  },
+  {
+    "icao": "CPA",
+    "name": "CATHAY PACIFIC Virtual",
+    "callsign": "CATHAY",
+    "virtual": true
 ]
